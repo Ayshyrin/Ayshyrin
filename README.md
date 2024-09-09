@@ -7,11 +7,4 @@
 
   My skills💪:
 
-[![Bootstrap](https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg)](https://skillicons.dev)  
-[![CSS](https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg)](https://skillicons.dev)   
-[![HTML](https://github.com/tandpfun/skill-icons/blob/main/icons/Htmx-Dark.svg)](https://skillicons.dev)  
-[![React](https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg)](https://skillicons.dev)  
-[![JS](https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg)](https://skillicons.dev)  
-[![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)](https://skillicons.dev)  
-[![Figma](https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg)](https://skillicons.dev)   
-[![TS](https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg)](https://skillicons.dev) 
+[![Bootstrap](https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg)](https://skillicons.dev)  [![CSS](https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg)](https://skillicons.dev)  [![HTML](https://github.com/tandpfun/skill-icons/blob/main/icons/Html-Dark.svg)](https://skillicons.dev)  [![React](https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg)](https://skillicons.dev)  [![JS](https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg)](https://skillicons.dev)  [![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)](https://skillicons.dev)  [![Figma](https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg)](https://skillicons.dev)  [![TS](https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg)](https://skillicons.dev) 
